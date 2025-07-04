@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Konal Pradhan
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Machine Learning & Web development
 - 🌱 I’m currently learning React and Tailwind
 - 📫 How to reach me , insta @_konal_17
 - ⚡ Fun fact : I do video editing  & motion graphics too
